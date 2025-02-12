@@ -183,7 +183,7 @@
     <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/469228885_524770570716355_3350309492206625169_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHOP-DhhoY9Qu73R-we3sPkfAJDdN_rAh98AkN03-sCH9grBb_tw-mR1nju4aYfh-Oa3DpgVsWRwhMiEKAA9SRp&_nc_ohc=oDUaJHZrs40Q7kNvgGAxUFl&_nc_oc=AdjYtXAzJrjCBuz5LtZ32tVryLRncmfTocCFhWV-yiiyyKSMXW158Whtigf-WcBcd90&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=AAYpl5y7OmqqSKGxvicBTkK&oh=00_AYBQBNAAmIPIA5LKu38_gP4cdx2dPBfW_gZRt_5wkhQofg&oe=67B11841" alt="John Vincent S. Palomania" width="150">
     <h1 style="text-align: center;">John Vincent S. Palomania</h1>
     <p style="text-align: center;"><b>Address:</b> Zone 7 San Rafael, Cararayan, Naga City</p>
-    <p style="text-align: center;"><b>Contact:</b> (+63)9077411207 | <i>Email:</i> jvpalomania@gbox.adnu.edu.ph</p>
+    <p style="text-align: center;"><b>Contact:</b> (+63)09077411207 | <i>Email:</i> jvpalomania@gbox.adnu.edu.ph</p>
     <button class="Facebook" onclick="location.href = 'https://www.facebook.com/vince.po.ito/';" id="myButton" class="float-left submit-button"><span>Facebook</span></button>
     <button class="Instagram" onclick="location.href = 'https://www.instagram.com/vince.po.ito/';" id="myButton" class="float-left submit-button"><span>Instagram</span></button>
     <hr>
@@ -203,6 +203,21 @@
             <td>Ateneo de Naga University</td>
             <td>2027</td>
         </tr>
+        <tr>
+          <td>Senior High School</td>
+          <td>Ateneo de Naga Junior High School</td>
+          <td>2023</td>
+        </tr>
+        <tr>
+          <td>High School</td>
+          <td>Ateneo de Naga Junior High School</td>
+          <td>2020</td>
+        </tr>
+        <tr>
+          <td>Elementary</td>
+          <td>Don Manuel I. Abella Central School</td>
+          <td>2016</td>
+        </tr>
     </table>
     
     <h2>Skills</h2>
@@ -211,5 +226,7 @@
         <li>Web Development</li>
         <li>Database Management</li>
     </ul>
+    <h2>Work Experience</h2>
+    <p>Currently looking for work experience</p>
 </body>
 </html>
